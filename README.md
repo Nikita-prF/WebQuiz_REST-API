@@ -38,9 +38,9 @@ Example:
 * Clone repository to your machine
 * Open the root folder of the project
 * Run the following command
-``` 
-$ java -jar build/libs/*.jar
-```
+
+` $ java -jar build/libs/*.jar` or `$ gradle bootRun`
+
 * Wait until finished loading
 
 > *The first launch of service creates a database in the <b>/build</b> directory of the project.*
