@@ -29,7 +29,7 @@ You can choose the necessary page to view and the method of sorting by adding th
 
 Example: 
 
-`http://localhost:8080/api/quizzes?page=10` - *will get you to the 10th page of all available quizzes.*
+`http://localhost:8080/api/quizzes?page=10` - *will get you to the 11th page of all available quizzes.*
 
 ## Launch Manual.
 
