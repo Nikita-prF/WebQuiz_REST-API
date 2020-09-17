@@ -1,0 +1,34 @@
+engine/repository/UserRepository.java
+ engine.repository.UserRepository
+engine/entity/User.java
+ engine.entity.User
+engine/controller/QuizController.java
+ engine.controller.QuizController
+ engine.controller.QuizController$InvalidCreatingException
+ engine.controller.QuizController$QuizNotFoundException
+engine/repository/PagingSortingRepo.java
+ engine.repository.PagingSortingRepo
+engine/WebQuizEngine.java
+ engine.WebQuizEngine
+engine/entity/CompletedQuiz.java
+ engine.entity.CompletedQuiz
+engine/controller/UserController.java
+ engine.controller.UserController
+engine/entity/Quiz.java
+ engine.entity.Quiz
+engine/config/SecurityConfiguration.java
+ engine.config.SecurityConfiguration
+engine/config/SpringFoxConfig.java
+ engine.config.SpringFoxConfig
+engine/OptionAnswer.java
+ engine.OptionAnswer
+engine/UserAnswer.java
+ engine.UserAnswer
+engine/repository/PagingSortingComplQuizRepo.java
+ engine.repository.PagingSortingComplQuizRepo
+engine/services/QuizService.java
+ engine.services.QuizService
+engine/services/UserDetailsServiceImpl.java
+ engine.services.UserDetailsServiceImpl
+engine/services/CompletedQuizService.java
+ engine.services.CompletedQuizService
